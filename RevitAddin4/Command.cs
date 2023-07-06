@@ -63,6 +63,7 @@ namespace RevitAddin4
             List<TestStruct> strctList = new List<TestStruct>();
             strctList.Add(struct1);
 
+
             return Result.Succeeded;
         }
 
